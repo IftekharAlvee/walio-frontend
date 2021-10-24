@@ -2,7 +2,7 @@ import React from 'react';
 import WalioWorkCard from './WalioWorkCard';
 import workData from './walioWorkCardData'
 const HowWalioWorks = () => {
-    //#6D5DD9
+    
     const hStyle ={
         color: "#6D5DD9",
         fontSize: "35px",

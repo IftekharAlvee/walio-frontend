@@ -12,9 +12,9 @@ const WalioWorkCard = (props) => {
                     <img src={imgTop} alt="" />
                 </div>
                 <div className="d-flex justify-content-center">
-                    <img className="img-fluid p-5" src={imageUrl} alt="" />
+                    <img style={{height:"15em"}} className="img-fluid p-5" src={imageUrl} alt="" />
                 </div>
-                <div className="mt-5">
+                <div className="mt-5 ">
                     <p>{cardText}</p>
                 </div>
         </div>
