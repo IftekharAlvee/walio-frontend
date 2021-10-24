@@ -1,0 +1,21 @@
+#inputID input{
+    background-color: #47CE7D !important;
+    border: 1.5px solid white;
+    color:#fff;
+}
+#inputID textarea{
+    background-color: #47CE7D !important;
+    color:#fff;
+}
+#inputID input::placeholder {
+    background-color: #47CE7D !important;
+    font-size: 14px;
+    color: #fff;
+    opacity: 1;
+}
+#inputID textarea::placeholder {
+    background-color: #47CE7D !important;
+    font-size: 14px;
+    color: #fff;
+    opacity: 1;
+}
